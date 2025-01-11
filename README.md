@@ -4,6 +4,7 @@
   <a href="https://stitchzzang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"/></a>
 
   <h3>Once I've Used :sparkles:</h3>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -15,5 +16,6 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
+  ![Stitchzzang's GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact)](https://github.com/stitchzzang/github-readme-stats)
 </div>
