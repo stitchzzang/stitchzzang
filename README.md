@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=STITCHZZANG&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=STITCHZZANG&fontSize=45" />
 </div>
 <div align="center">
   <h3>About me ! :eyes:</h3>
