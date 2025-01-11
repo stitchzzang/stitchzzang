@@ -17,5 +17,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact"> -->
 </div>
