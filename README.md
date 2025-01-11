@@ -11,11 +11,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=lightpurple"> 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=green">
-
 </div>
 
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact)](https://github.com/stitchzzang/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact">
 </div>
