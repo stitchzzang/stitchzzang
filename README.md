@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=lightpurple"> 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=green">
 
-  <br>
 </div>
 
 <div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
 </div>
