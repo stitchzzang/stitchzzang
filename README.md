@@ -1,5 +1,7 @@
 <div align="center">
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=STICHZZANG&fontSize=90)
+</div>
+<div align="center">
   <h3>About me ! :eyes:</h3>
   <a href="https://github.com/stitchzzang"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
   <a href="https://stitchzzang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"/></a>
