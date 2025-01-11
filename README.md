@@ -16,6 +16,6 @@
 
 <div align="center">
   <br>
-  ![Stitchzzang's GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact)](https://github.com/stitchzzang/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
+  <img srt="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact">
 </div>
