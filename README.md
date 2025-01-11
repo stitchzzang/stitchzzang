@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=STICHZZANG&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=STITCHZZANG&fontSize=90" />
 </div>
 <div align="center">
   <h3>About me ! :eyes:</h3>
