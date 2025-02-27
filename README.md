@@ -14,9 +14,12 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </div>
 
+<br>
+
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=donut">
   <br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=compact"> -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
 </div>
