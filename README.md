@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/zustand-f6d365?style=for-the-badge&logo=zustand&logoColor=black"/>
+  <img src="https://img.shields.io/badge/KY-6F42C1?style=for-the-badge&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
