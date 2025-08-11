@@ -1,9 +1,70 @@
-<div align="center">
-  <h3>About me ! :eyes:</h3>
+# 👋 안녕하세요. 신해인입니다!
+
+## 사용자의 즐거움은 곧 나의 즐거움! 💫🤩
+> 사용자와 가장 가까운 접점에서, 더 나은 경험을 제공하기 위해 끊임없이 고민하고 개선하고자 합니다.  
+> 사용자가 즐거움과 편리함을 느끼고 서비스에 오랫동안 머무를 수 있을 때, 큰 보람을 느낍니다.  
+> 협업의 과정에서 백엔드, 인프라, 디자이너 모든 이들과 소통하고 넓은 시야로 프로젝트를 진행합니다.
+<br>
+
+## :eyes: About me ! 
+<div>
   <a href="https://github.com/stitchzzang"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
   <a href="https://stitchzzang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"/></a>
+  <a href="mailto:godls0215@naver.com"><img src="https://img.shields.io/badge/godls0215@naver.com-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
-  <h3>Once I've Used :sparkles:</h3>
+<br>
+
+## 🎓 Education
+<ul>
+  <li><b>삼성 청년 SW·AI 아카데미 12기</b> (2024.07.02 ~ 2025.06.30)</li>
+</ul>
+
+<br>
+
+## 🏆 Awards & Certificates
+<ul>
+  <li>🥈 삼성 청년 SW·AI 아카데미 <b>자율 프로젝트 영상 포트폴리오 경진대회 전국 2위</b> (2025.06.11)</li>
+  <li>🥈 삼성 청년 SW·AI 아카데미 <b>자율 프로젝트 2위</b> (2025.05.22)</li>
+  <li>🥈 삼성 청년 SW·AI 아카데미 <b>특화 프로젝트 2위</b> (2025.04.11)</li>
+  <li>🥉 삼성 청년 SW·AI 아카데미 <b>공통 프로젝트 3위</b> (2025.02.21)</li>
+  <li>🪪 <b>정보처리기사</b> - 한국산업인력공단 (2024.06.18)</li>
+  <li>🪪 <b>SQLD</b> - 한국데이터산업진흥원 (2024.06.21)</li>
+</ul>
+
+<br>
+
+## 👩🏻‍💻 Projects
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>소개</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/stitchzzang/Achacha_PJT"><b>아차차</b></a></td>
+      <td>기프티콘 관리 및 공유 어플리케이션</td>
+      <td>2025.04.14 ~ 2025.05.22 (6주)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/stitchzzang/BDL_PJT"><b>부자될랩(BDL)</b></a></td>
+      <td>주식을 쉽고 안전하게 배우며, 자동 매매로 자신만의 투자 경험을 쌓는 서비스</td>
+      <td>2025.02.24 ~ 2025.04.11 (7주)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/stitchzzang/Overthecam_PJT"><b>캠건너불구경</b></a></td>
+      <td>실시간 투표 기반 화상 논쟁 배틀 서비스</td>
+      <td>2025.01.06 ~ 2025.02.21 (7주)</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+## :sparkles: Once I've Used
+<div>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <br />
@@ -39,14 +100,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  </div>
-
+</div>
+<br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=donut">
+## 🧾 Records
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=donut" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent" height="200">
 </div>
-  <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent">
-</div>
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=신해인)](https://www.codenary.co.kr/user-profile/detail/신해인?github_ride=true&utm_source=github)
