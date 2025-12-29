@@ -103,9 +103,3 @@
 </div>
 <br>
 <br>
-
-## 🧾 Records
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=donut" height="195">
-  <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent" height="200">
-</div>
