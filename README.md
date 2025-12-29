@@ -109,5 +109,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitchzzang&layout=donut" height="195">
   <img src="https://github-readme-stats.vercel.app/api?username=stitchzzang&show_icons=true&theme=transparent" height="200">
 </div>
-
-[![Github](https://www.codenary.co.kr/widget/github/api?username=신해인)](https://www.codenary.co.kr/user-profile/detail/신해인?github_ride=true&utm_source=github)
